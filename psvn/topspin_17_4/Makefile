@@ -83,7 +83,7 @@ all:
 # make hanoi_4_18/abs_hanoi_4_18_2.pdb
 # make hanoi_4_18/abs_hanoi_4_18_3.pdb
 # make hanoi_4_18/abs_hanoi_4_18_4.pdb
-# make topspin_12_4.bfs
+	make topspin_17_4.bfs
 	make topspin_17_4.ucs
 #	make hanoi_4_18.a
 #	make hanoi_4_18.ida
