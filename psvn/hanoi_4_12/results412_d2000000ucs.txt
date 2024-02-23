@@ -1,0 +1,23 @@
+../../benchmarks/hanoi_4p12d/hanoi_4p12d.d=2000000.txt
+Entrada 			              Tiempo 	   nodos abiertos       Distancia	
+-----------------------------------------------------------------------------
+Entro al de is goal 0
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 31320             0                     65
+Entro al de is goal 49982
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 2736             49982                     26
+Entro al de is goal 15
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 31462             15                     66
+Entro al de is goal 796889
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 18081             796889                     45
+Entro al de is goal 1
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 29061             1                     61
+Entro al de is goal 3059
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 32631             3059                     61
+Entro al de is goal 0
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 31415             0                     65
+Entro al de is goal 0
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 33252             0                     66
+Entro al de is goal 0
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 33281             0                     65
+Entro al de is goal 40118
+ 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 		 34322             40118                     58

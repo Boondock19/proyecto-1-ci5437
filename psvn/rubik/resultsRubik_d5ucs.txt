@@ -1,0 +1,22 @@
+Entrada                                       Tiempo       nodos abiertos       Distancia
+-----------------------------------------------------------------------------
+Entro al de is goal 30114
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 235             30114                     4
+Entro al de is goal 1092
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 2             1092                     3
+Entro al de is goal 28775
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 183             28775                     4
+Entro al de is goal 1351
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 3             1351                     3
+Entro al de is goal 565512
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 5947             565512                     5
+Entro al de is goal 574181
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 7515             574181                     5
+Entro al de is goal 516
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 1             516                     3
+Entro al de is goal 358996
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 3445             358996                     5
+Entro al de is goal 611
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 2             611                     3
+Entro al de is goal 446080
+ 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1                 4740             446080                     5
